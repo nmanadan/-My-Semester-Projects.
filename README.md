@@ -1,5 +1,10 @@
 # -My-Semester-Projects.
 This repository contains 5 projects that I coded in python over the semester. 
+
+
+
+
+
 **#Project 1: Conditionals**
 summary: This program uses the information that the user inputs to tell them their letter grade. 
 key features:
