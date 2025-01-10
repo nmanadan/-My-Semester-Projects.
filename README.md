@@ -40,6 +40,7 @@ key features:
 
 **#Project 5: Rock Paper Scissors**
 summary: This is a rock paper scissors game where the user plays against the computer.
+
 key features:
 -gives a welcome sentence
 -tells user if you tie or win or loose
